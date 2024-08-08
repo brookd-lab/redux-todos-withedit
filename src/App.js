@@ -1,5 +1,6 @@
 
 import Todos from './components/Todos'
+// Bootstrap CSS
 
 function App() {
   return (
